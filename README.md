@@ -5,9 +5,14 @@
 - `REPORT.md`: отчёт с таблицей багов, графиком и генерацией
 - `loss.png`, `sample.txt`: график лосса и сгенерированный текст
 
+## Ноутбуки в Colab
+
+- `dz1-attention.ipynb`: https://colab.research.google.com/drive/13aUCwq-ffDJmqD9blOiJFBmwuvAwIpNh
+- `dz1-bughunt.ipynb`: https://colab.research.google.com/drive/11a-pqcHXKnxp_FFNMSiHKQnrgqt-mrWX
+
 ## Как запустить
 
-Проще всего в Colab: загрузить ноутбук (File → Upload notebook) и нажать Runtime → Run all. Сначала `dz1-attention.ipynb`, потом `dz1-bughunt.ipynb`. Ставить ничего не нужно.
+Проще всего в Colab: открыть ноутбук по ссылке выше (или загрузить через File → Upload notebook) и нажать Runtime → Run all. Сначала `dz1-attention.ipynb`, потом `dz1-bughunt.ipynb`. Ставить ничего не нужно.
 
 Локально нужны Python 3.10+ и пакеты:
 
